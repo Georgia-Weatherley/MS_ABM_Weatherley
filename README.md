@@ -2,7 +2,7 @@ MS_ABM_Weatherley
 
 This code supports the manuscript “Therapeutic targeting of oligodendrocytes in an agent-based model of multiple sclerosis.” This article is published open access in PLOS Computational Biology, available here: https://doi.org/10.1371/journal.pcbi.1013273. This repository contains MATLAB code of an agent-based model developed to study the potential of oligodendrocytes as therapeutic targets in the treatment of multiple sclerosis patients. 
 
-![ABM_cartoon](ABM_image.png)
+![ABM_cartoon](ABM_image.PNG)
 
 To reproduce results presented in the manuscript, please use the code in the "Current_version" folder. The ABM can be run by running "ABM_main_script.m". Please note that it requires the following files to run
 - main_function.m
