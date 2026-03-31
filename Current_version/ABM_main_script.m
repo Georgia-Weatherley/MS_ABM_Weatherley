@@ -8,11 +8,9 @@ save_spatial_data = 0;     % Choose whether to save spatial outputs or populatio
 
 step_cap = 21600;     % 21600 time steps is 300 days for a single realisation 
 
-num_iterations = 3;       % Number of stochastic runs
+num_iterations = 2;       % Number of stochastic runs
 
-relapse_schedule = 4;          % Relapse schedule identifier
-oligo_restor     = 1;          % Oligodendrocyte restoration switch 
-
+relapse_schedule = 4;          % Relapse schedule identifier. These correspond to those given in the manuscript. Further detail can also be found in "Renew_Cell_1.m"
 
 %% Therapy settings 
 % Oligodendrocyte apoptosis and myelination stopping
